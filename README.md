@@ -1,24 +1,24 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=32&pause=1000&color=00FF99&center=true&vCenter=true&width=800&lines=🔥+Welcome+to+the+Realm+of+Koustav+Pan;🚀+Frontend+Architect+%7C+Web+Designer;⚡+Transforming+Ideas+into+Interactive+Reality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=32&pause=1000&color=00FF99&center=true&vCenter=true&width=800&lines=🔥+Welcome+to+the+Realm+of+Koustav+Pan;🚀+Frontend+Architect+%7C+Web+Designer;⚡+Forging+Ideas+into+Interactive+Reality" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated UI Header" width="100%">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated UI Header" width="100%" style="border-radius: 15px; margin-bottom: 20px;">
 </div>
 
 ---
 
 ### 👑 The Architect Behind the Screen
 
-I am a Frontend Developer who treats the browser as a canvas. I specialize in building highly interactive, pixel-perfect, and dynamic user interfaces using React and Tailwind CSS. Whether it's crafting sleek personal portfolios for creatives or bringing complex web layouts to life, I bridge the gap between robust logic and beautiful, illustrative design.
+I am a Frontend Developer who treats the browser as a canvas. I specialize in building highly interactive, pixel-perfect, and dynamic user interfaces using **React** and **Tailwind CSS**. From crafting sleek, custom portfolios for creatives to building dynamic multi-page experiences, I bridge the gap between robust logic and striking, illustrative design. 
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
+<table align="center" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td align="center" width="50%" style="border: none;">
       <strong>🌱 Exploring</strong><br>
       Advanced animations, modern UI/UX trends, and scalable React architectures.
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="50%" style="border: none;">
       <strong>💡 Philosophy</strong><br>
       Clean code is good, but code that delivers a breathtaking visual experience is god-level.
     </td>
@@ -33,6 +33,27 @@ I am a Frontend Developer who treats the browser as a canvas. I specialize in bu
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,js,tailwind,css,html,bootstrap,java,git,github,vscode&theme=dark&perline=10" alt="Tech Stack Icons" />
   </a>
+</div>
+
+---
+
+### 🚀 Crafted Experiences (Showcase)
+
+<div align="center">
+  <table style="border-collapse: collapse; border: none;">
+    <tr style="border: none;">
+      <td align="center" width="50%" style="border: none;">
+        <strong>Dynamic Web App</strong><br>
+        <img src="https://cdn.dribbble.com/users/1186261/screenshots/3718681/_______.gif" alt="Project 1" width="100%" style="border-radius: 10px;"/>
+        <br><em>React, Tailwind CSS</em>
+      </td>
+      <td align="center" width="50%" style="border: none;">
+        <strong>Interactive Portfolio</strong><br>
+        <img src="https://cdn.dribbble.com/users/1008875/screenshots/4873138/1.gif" alt="Project 2" width="100%" style="border-radius: 10px;"/>
+        <br><em>HTML, CSS, JS Animations</em>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -61,8 +82,6 @@ I am a Frontend Developer who treats the browser as a canvas. I specialize in bu
 ---
 
 ### 🐍 Contribution Activity
-
-*(Pro-Tip: You can set up a GitHub Action to generate a live eating snake animation based on your commit grid!)*
 
 <div align="center">
   <picture>
