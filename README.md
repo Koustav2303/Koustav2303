@@ -62,7 +62,7 @@ I am a Frontend Developer who treats the browser as a canvas. I specialize in bu
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Koustav2303&theme=radical&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Trophies" />
+    <img src="[https://github-profile-trophy.vercel.app/?username=Koustav2303&theme=radical&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC6VqCKQmuXlpA04aY-foOKABLNmh9b63Leg&s)" alt="Trophies" />
   </a>
 </div>
 
