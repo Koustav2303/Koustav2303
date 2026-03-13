@@ -10,7 +10,7 @@
 
 ### 👑 The Architect Behind the Screen
 
-I am a Frontend Developer who treats the browser as a canvas. I specialize in building highly interactive, pixel-perfect, and dynamic user interfaces using **React** and **Tailwind CSS**. From crafting sleek, custom portfolios for creatives to building dynamic multi-page experiences, I bridge the gap between robust logic and striking, illustrative design. 
+I am a Frontend Developer based in Bangalore who treats the browser as a canvas. I specialize in building highly interactive, pixel-perfect, and dynamic user interfaces using **React** and **Tailwind CSS**. Whether it is building robust web applications or designing interfaces that feature unique illustrative and sketch-style visual elements, I bridge the gap between complex logic and striking design. 
 
 <table align="center" style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
@@ -62,7 +62,7 @@ I am a Frontend Developer who treats the browser as a canvas. I specialize in bu
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://png.pngtree.com/png-clipart/20230927/original/pngtree-white-trophy-sticker-png-image_13141481.png" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Koustav2303&theme=radical&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Trophies" width="70%" />
   </a>
 </div>
 
