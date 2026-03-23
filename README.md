@@ -44,7 +44,7 @@ I am a Frontend Developer based in Bangalore who treats the browser as a canvas.
     <tr style="border: none;">
       <td align="center" width="50%" style="border: none;">
         <strong>Dynamic Web App</strong><br>
-        <img src="https://cdn.dribbble.com/users/1186261/screenshots/3718681/_______.gif" alt="Project 1" width="100%" style="border-radius: 10px;"/>
+        <img src="https://assets-v2.lottiefiles.com/a/f5461966-117a-11ee-a09f-2ba79796e9d8/mQmXcF0fCK.gif" alt="Project 1" width="100%" style="border-radius: 10px;"/>
         <br><em>React, Tailwind CSS</em>
       </td>
       <td align="center" width="50%" style="border: none;">
