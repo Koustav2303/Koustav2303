@@ -31,7 +31,7 @@ I am a Frontend Developer based in Bangalore who treats the browser as a canvas.
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,js,tailwind,css,html,bootstrap,java,git,github,cursor,vscode&theme=dark&perline=10" alt="Tech Stack Icons" />
+    <img src="https://skillicons.dev/icons?i=react,js,tailwind,css,html,bootstrap,java,git,github,vscode&theme=dark&perline=10" alt="Tech Stack Icons" />
   </a>
 </div>
 
