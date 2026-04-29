@@ -43,14 +43,26 @@ I am a Frontend Developer based in Bangalore who treats the browser as a canvas.
   <table style="border-collapse: collapse; border: none;">
     <tr style="border: none;">
       <td align="center" width="50%" style="border: none;">
-        <strong>Dynamic Web App</strong><br>
-        <img src="https://assets-v2.lottiefiles.com/a/f5461966-117a-11ee-a09f-2ba79796e9d8/mQmXcF0fCK.gif" alt="Project 1" width="100%" style="border-radius: 10px;"/>
-        <br><em>React, Tailwind CSS</em>
+        <strong>🏨 LuxeStay Hotel Booking</strong><br>
+        <em>Premium, interactive accommodation UI</em><br><br>
+        <a href="https://koustav2303.github.io/LuxeStay-hotel-booking-webpage/" target="_blank">
+          <img src="https://assets-v2.lottiefiles.com/a/f5461966-117a-11ee-a09f-2ba79796e9d8/mQmXcF0fCK.gif" alt="LuxeStay Project" width="100%" style="border-radius: 10px; margin-bottom: 10px; border: 2px solid #222;"/>
+        </a>
+        <br>
+        <a href="https://koustav2303.github.io/LuxeStay-hotel-booking-webpage/" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-00FF99?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Live Demo" />
+        </a>
       </td>
       <td align="center" width="50%" style="border: none;">
-        <strong>Interactive Portfolio</strong><br>
-        <img src="https://cdn.dribbble.com/users/1008875/screenshots/4873138/1.gif" alt="Project 2" width="100%" style="border-radius: 10px;"/>
-        <br><em>HTML, CSS, JS Animations</em>
+        <strong>✈️ YatraEase Portal</strong><br>
+        <em>Seamless travel & tour booking experience</em><br><br>
+        <a href="https://koustav2303.github.io/yatraease/" target="_blank">
+          <img src="https://cdn.dribbble.com/users/1008875/screenshots/4873138/1.gif" alt="YatraEase Project" width="100%" style="border-radius: 10px; margin-bottom: 10px; border: 2px solid #222;"/>
+        </a>
+        <br>
+        <a href="https://koustav2303.github.io/yatraease/" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-00FF99?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Live Demo" />
+        </a>
       </td>
     </tr>
   </table>
@@ -62,7 +74,8 @@ I am a Frontend Developer based in Bangalore who treats the browser as a canvas.
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="[https://github-profile-trophy.vercel.app/?username=Koustav2303&theme=radical&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true](https://cdn-icons-png.flaticon.com/512/3750/3750043.png)" alt="Trophies" width="70%" />
+    <!-- Note: Fixed a minor syntax error in your original markdown for the trophy link -->
+    <img src="https://github-profile-trophy.vercel.app/?username=Koustav2303&theme=radical&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Trophies" width="70%" />
   </a>
 </div>
 
