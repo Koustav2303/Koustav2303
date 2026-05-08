@@ -140,14 +140,14 @@ I bridge the gap between secure, robust backend systems and breathtaking, high-f
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Koustav2303&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&ring_color=00FF99&title_color=00FF99" alt="Stats" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Koustav2303&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&ring_color=00FF99&title_color=00FF99" alt="Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Koustav2303&theme=radical&hide_border=true&background=0D1117&ring=00FF99&fire=00FF99&currStreakNum=white" alt="Streak" width="48%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koustav2303&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF99" alt="Top Languages" width="50%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Koustav2303&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF99" alt="Top Languages" width="50%" />
 </div>
 
 ---
