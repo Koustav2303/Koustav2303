@@ -65,47 +65,96 @@ I bridge the gap between secure, data-intensive backend architectures and breath
 
 ### 🚀 `dir.projects` // Deployed Systems & Architectures
 
-**`[ 01 ]` 💬 GodChat: Social Platform**
-> **Architecture:** Reactive UI, Real-time State Management, Modular Components
-> **Telemetry:** A seamless social chatting platform engineered for fluid data presentation. Features dynamic DOM updates, scroll-locking for active feeds, and an immersive user interface designed for high user retention.
-> <a href="https://koustav2303.github.io/godchat/"><img src="https://img.shields.io/badge/EXECUTE_LIVE_SYSTEM-00FF99?style=flat-square&logo=googlechrome&logoColor=black" alt="Live" /></a>
+<table style="border-collapse: separate; border-spacing: 15px; border: none; width: 100%;">
+  <!-- ROW 1 -->
+  <tr style="border: none;">
+    <td align="center" width="50%" style="border: 1px solid #30363D; padding: 20px; border-radius: 12px; background-color: #0D1117;">
+      <h3>💬 GodChat</h3>
+      <img src="https://img.shields.io/badge/Reactive_UI-blue?style=flat-square" />
+      <img src="https://img.shields.io/badge/Real--Time_Data-000000?style=flat-square" />
+      <p align="left" style="font-size: 14px; color: #8b949e;"><b>Telemetry:</b> A seamless social chatting platform engineered for fluid data presentation. Features dynamic DOM updates, scroll-locking for active feeds, and an immersive user interface.</p>
+      <a href="https://koustav2303.github.io/godchat/">
+        <img src="https://img.shields.io/badge/EXECUTE_SYSTEM-00FF99?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Live" />
+      </a>
+    </td>
+    <td align="center" width="50%" style="border: 1px solid #30363D; padding: 20px; border-radius: 12px; background-color: #0D1117;">
+      <h3>💎 Lumina Storefront</h3>
+      <img src="https://img.shields.io/badge/React-Tailwind-blue?style=flat-square&logo=react" />
+      <img src="https://img.shields.io/badge/GSAP-Three.js-88CE02?style=flat-square" />
+      <p align="left" style="font-size: 14px; color: #8b949e;"><b>Telemetry:</b> Luxury editorial digital storefront for furniture. Rejects standard retail templates in favor of a high-fidelity visual experience and scroll-driven physics interactions.</p>
+      <br>
+      <img src="https://img.shields.io/badge/LOCAL_ENVIRONMENT-30363D?style=for-the-badge&logo=github&logoColor=white" alt="Local" />
+    </td>
+  </tr>
+  
+  <!-- ROW 2 -->
+  <tr style="border: none;">
+    <td align="center" width="50%" style="border: 1px solid #30363D; padding: 20px; border-radius: 12px; background-color: #0D1117;">
+      <h3>🎛️ Pulse Audio Engine</h3>
+      <img src="https://img.shields.io/badge/React-Three.js-black?style=flat-square&logo=react" />
+      <img src="https://img.shields.io/badge/Web_Audio_API-000000?style=flat-square" />
+      <p align="left" style="font-size: 14px; color: #8b949e;"><b>Telemetry:</b> Real-time 3D cinematic audio visualization. Synchronizing raw FFT data analysis with WebGL physics layers to map audio frequencies to visual motion dynamically.</p>
+      <img src="https://img.shields.io/badge/LOCAL_ENVIRONMENT-30363D?style=for-the-badge&logo=github&logoColor=white" alt="Local" />
+    </td>
+    <td align="center" width="50%" style="border: 1px solid #30363D; padding: 20px; border-radius: 12px; background-color: #0D1117;">
+      <h3>🏦 NetBank Pro</h3>
+      <img src="https://img.shields.io/badge/React-Tailwind_v3-blue?style=flat-square&logo=react" />
+      <img src="https://img.shields.io/badge/GSAP_Timelines-88CE02?style=flat-square" />
+      <p align="left" style="font-size: 14px; color: #8b949e;"><b>Telemetry:</b> Production-grade digital banking dashboard. Integrates secure architectural logic with a premium glassmorphism UI, featuring highly-timed transactional animations.</p>
+      <img src="https://img.shields.io/badge/LOCAL_ENVIRONMENT-30363D?style=for-the-badge&logo=github&logoColor=white" alt="Local" />
+    </td>
+  </tr>
 
-**`[ 02 ]` 💎 Lumina Storefront**
-> **Architecture:** React, Tailwind v3, GSAP, Three.js
-> **Telemetry:** Luxury editorial digital storefront for furniture. Rejects standard retail templates in favor of a high-fidelity visual experience, utilizing scroll-driven narratives and physics-based interactions to display premium assets.
+  <!-- ROW 3 -->
+  <tr style="border: none;">
+    <td align="center" width="50%" style="border: 1px solid #30363D; padding: 20px; border-radius: 12px; background-color: #0D1117;">
+      <h3>🏨 LuxeStay</h3>
+      <img src="https://img.shields.io/badge/Component_Architecture-blue?style=flat-square" />
+      <img src="https://img.shields.io/badge/State_Management-000000?style=flat-square" />
+      <p align="left" style="font-size: 14px; color: #8b949e;"><b>Telemetry:</b> Premium accommodation interface focusing on complex booking flows. Built to handle state preservation across screens while maintaining a polished aesthetic.</p>
+      <a href="https://koustav2303.github.io/LuxeStay-hotel-booking-webpage/">
+        <img src="https://img.shields.io/badge/EXECUTE_SYSTEM-00FF99?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Live" />
+      </a>
+    </td>
+    <td align="center" width="50%" style="border: 1px solid #30363D; padding: 20px; border-radius: 12px; background-color: #0D1117;">
+      <h3>⚕️ CareSync</h3>
+      <img src="https://img.shields.io/badge/Accessible_DOM-blue?style=flat-square" />
+      <img src="https://img.shields.io/badge/Secure_UI_Flows-000000?style=flat-square" />
+      <p align="left" style="font-size: 14px; color: #8b949e;"><b>Telemetry:</b> A healthcare concern intake portal. Prioritizes accessibility, clean data presentation, and secure-feeling form handling to streamline critical user interactions.</p>
+      <br>
+      <a href="https://koustav2303.github.io/caresync/">
+        <img src="https://img.shields.io/badge/EXECUTE_SYSTEM-00FF99?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Live" />
+      </a>
+    </td>
+  </tr>
 
-**`[ 03 ]` 🎛️ Pulse Audio Engine**
-> **Architecture:** React, Three.js, Web Audio API, Jamendo API
-> **Telemetry:** Real-time 3D cinematic audio visualization. Synchronizing raw FFT data analysis with WebGL physics layers to map audio frequencies to visual motion dynamically.
-
-**`[ 04 ]` 🏦 NetBank Pro**
-> **Architecture:** React, Tailwind v3, GSAP Timelines
-> **Telemetry:** Production-grade digital banking dashboard. Integrates secure architectural logic with a premium glassmorphism UI, featuring highly-timed GSAP animations for transactional feedback.
-
-**`[ 05 ]` 🏨 LuxeStay: Booking System**
-> **Architecture:** Responsive Frontend Matrices, Component-Driven Design
-> **Telemetry:** Premium accommodation interface focusing on complex booking flows. Built to handle state preservation across multiple selection screens while maintaining a polished, high-contrast aesthetic.
-> <a href="https://koustav2303.github.io/LuxeStay-hotel-booking-webpage/"><img src="https://img.shields.io/badge/EXECUTE_LIVE_SYSTEM-00FF99?style=flat-square&logo=googlechrome&logoColor=black" alt="Live" /></a>
-
-**`[ 06 ]` ⚕️ CareSync: Health Portal**
-> **Architecture:** Accessible DOM Structure, Secure UI Flows
-> **Telemetry:** A healthcare concern intake webpage. Prioritizes accessibility, clean data presentation, and secure-feeling form handling to streamline user interaction in critical contexts.
-> <a href="https://koustav2303.github.io/caresync/"><img src="https://img.shields.io/badge/EXECUTE_LIVE_SYSTEM-00FF99?style=flat-square&logo=googlechrome&logoColor=black" alt="Live" /></a>
-
-**`[ 07 ]` ✈️ YatraEase: Travel Engine**
-> **Architecture:** Asset Optimization, Dynamic Routing Simulation
-> **Telemetry:** Seamless travel and booking portal. Engineered for visual-heavy asset loading, providing users with frictionless search flows and highly responsive destination filtering.
-> <a href="https://koustav2303.github.io/yatraease/"><img src="https://img.shields.io/badge/EXECUTE_LIVE_SYSTEM-00FF99?style=flat-square&logo=googlechrome&logoColor=black" alt="Live" /></a>
-
-**`[ 08 ]` ☕ CafeAura: Boutique Experience**
-> **Architecture:** CSS Grid Mastery, Micro-interaction Design
-> **Telemetry:** An immersive boutique cafe showcase. Leverages advanced visual hierarchy, custom typographic scaling, and fluid hover states to translate a physical brand experience into the DOM.
-> <a href="https://koustav2303.github.io/cafe-webpage/"><img src="https://img.shields.io/badge/EXECUTE_LIVE_SYSTEM-00FF99?style=flat-square&logo=googlechrome&logoColor=black" alt="Live" /></a>
+  <!-- ROW 4 -->
+  <tr style="border: none;">
+    <td align="center" width="50%" style="border: 1px solid #30363D; padding: 20px; border-radius: 12px; background-color: #0D1117;">
+      <h3>✈️ YatraEase</h3>
+      <img src="https://img.shields.io/badge/Asset_Optimization-blue?style=flat-square" />
+      <img src="https://img.shields.io/badge/Dynamic_Routing-000000?style=flat-square" />
+      <p align="left" style="font-size: 14px; color: #8b949e;"><b>Telemetry:</b> Seamless travel and booking portal. Engineered for visual-heavy asset loading, providing users with frictionless search flows and highly responsive destination filtering.</p>
+      <a href="https://koustav2303.github.io/yatraease/">
+        <img src="https://img.shields.io/badge/EXECUTE_SYSTEM-00FF99?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Live" />
+      </a>
+    </td>
+    <td align="center" width="50%" style="border: 1px solid #30363D; padding: 20px; border-radius: 12px; background-color: #0D1117;">
+      <h3>☕ CafeAura</h3>
+      <img src="https://img.shields.io/badge/CSS_Grid_Mastery-blue?style=flat-square" />
+      <img src="https://img.shields.io/badge/Micro--Interactions-000000?style=flat-square" />
+      <p align="left" style="font-size: 14px; color: #8b949e;"><b>Telemetry:</b> An immersive boutique cafe showcase. Leverages advanced visual hierarchy, custom typographic scaling, and fluid hover states to translate physical branding into the DOM.</p>
+      <a href="https://koustav2303.github.io/cafe-webpage/">
+        <img src="https://img.shields.io/badge/EXECUTE_SYSTEM-00FF99?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Live" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   <br>
   <a href="https://github.com/Koustav2303?tab=repositories">
-    <img src="https://img.shields.io/badge/🔍_EXPLORE_THE_FULL_CODEBASE-0D1117?style=for-the-badge&logo=github&logoColor=00FF99&border=00FF99" alt="Explore Repositories" />
+    <img src="https://img.shields.io/badge/🔍_EXPLORE_ALL_SYSTEMS-0D1117?style=for-the-badge&logo=github&logoColor=00FF99&border=00FF99" alt="Explore Repositories" />
   </a>
 </div>
 
