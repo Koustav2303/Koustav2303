@@ -1,30 +1,30 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=32&pause=1000&color=00FF99&center=true&vCenter=true&width=800&lines=🔥+Welcome+to+the+Realm+of+Koustav+Pan;🚀+Creative+Frontend+Architect;⚙️+Building+Scalable+Fullstack+Systems;⚡+Forging+Cinematic+Web+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=32&pause=1000&color=00FF99&center=true&vCenter=true&width=800&lines=>_INITIATING_SYSTEM...;🔥+Welcome+to+the+Realm+of+Koustav+Pan;🚀+Creative+Frontend+Architect;⚙️+Building+Scalable+Fullstack+Systems;⚡+Forging+Cinematic+Web+Experiences" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated UI Header" width="100%" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0px 4px 15px rgba(0, 255, 153, 0.2);">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated UI Header" width="100%" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0px 0px 20px rgba(0, 255, 153, 0.15);">
 </div>
 
 <div align="center">
   <a href="https://koustav2303.github.io/koustavpan-portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/🌌_ENTER_THE_LIVE_PORTFOLIO-000000?style=for-the-badge&logo=googlechrome&logoColor=00FF99" alt="Live Portfolio"/>
+    <img src="https://img.shields.io/badge/🌌_EXECUTE_LIVE_PORTFOLIO-000000?style=for-the-badge&logo=googlechrome&logoColor=00FF99&borderColor=00FF99" alt="Live Portfolio"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Koustav2303&label=BASE_VIEWS&color=00FF99&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Koustav2303&label=SYSTEM_PINGS&color=00FF99&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <br>
 
 ---
 
-### 👑 System Architect & Creative Developer
+### 👑 `sys.architect` // Creative Developer
 
-I am a Bangalore-based Software Engineer holding a B-Tech in Computer Science, treating the browser as a high-performance rendering engine. While my foundation is deeply rooted in algorithmic logic and heavy backend systems, my specialization lies in **cinematic frontend architecture** and **full-stack scalability**. 
+I am a Bangalore-based Software Engineer treating the browser as a high-performance rendering engine. While my foundation is deeply rooted in algorithmic logic and robust backend systems, my absolute specialization lies in **cinematic frontend architecture** and **full-stack scalability**. 
 
-I bridge the gap between secure, data-intensive backend architectures and breathtaking, high-fidelity visual design. Currently expanding my enterprise capabilities through advanced Java Fullstack architecture (Spring, Hibernate, MySQL) while continuing to push the limits of WebGL and React on the client side.
+I bridge the gap between secure, data-intensive backend architectures and breathtaking, high-fidelity visual design. Currently expanding my enterprise capabilities through advanced Java Fullstack architecture (Spring, Hibernate, MySQL) while continuing to push the limits of WebGL, GSAP, and React on the client side.
 
 <details>
-  <summary><kbd>✨ DECRYPT: Engineering & Architecture Philosophy</kbd></summary>
+  <summary><kbd>✨ DECRYPT: Core Engineering Philosophy</kbd></summary>
   <br>
   <blockquote>
     <ul>
@@ -38,7 +38,7 @@ I bridge the gap between secure, data-intensive backend architectures and breath
 
 ---
 
-### ⚡ The Arsenal: Tech Stack & Tooling
+### ⚡ `env.stack` // Tech Arsenal & Tooling
 
 <div align="center">
   <p><em>Core Languages & Ecosystems</em></p>
@@ -63,38 +63,44 @@ I bridge the gap between secure, data-intensive backend architectures and breath
 
 ---
 
-### 🚀 The Forge: Production Environments
+### 🚀 `dir.projects` // Deployed Systems & Architectures
 
-<table style="border-collapse: collapse; border: none; width: 100%;">
-  <!-- ROW 1: Flagships -->
-  <tr style="border: none;">
-    <td align="center" width="50%" style="border: 1px solid #30363D; padding: 15px; border-radius: 10px;">
-      <h3>💎 Lumina Storefront</h3>
-      <p><em>Luxury editorial digital storefront for furniture. Focuses on high-fidelity visual experiences, scroll-driven narratives, and physics-based interactions rather than standard retail flows.</em></p>
-      <img src="https://img.shields.io/badge/React-Tailwind_v3-blue?style=flat-square&logo=react" />
-      <img src="https://img.shields.io/badge/GSAP-Three.js-88CE02?style=flat-square" />
-    </td>
-    <td align="center" width="50%" style="border: 1px solid #30363D; padding: 15px; border-radius: 10px;">
-      <h3>🎛️ Pulse Audio Engine</h3>
-      <p><em>Real-time 3D cinematic audio visualization. Synchronizing Web Audio API FFT analysis with WebGL physics layers for latency-free rendering.</em></p>
-      <img src="https://img.shields.io/badge/React-Three.js-black?style=flat-square&logo=react" />
-      <img src="https://img.shields.io/badge/WebAudioAPI-000000?style=flat-square" />
-    </td>
-  </tr>
-  <!-- ROW 2: Core Systems -->
-  <tr style="border: none;">
-    <td align="center" width="50%" style="border: 1px solid #30363D; padding: 15px; border-radius: 10px;">
-      <h3>🏦 NetBank Pro</h3>
-      <p><em>Production-grade digital banking suite. Features secure architectural logic, glassmorphism UI, and highly-timed GSAP-animated dashboards.</em></p>
-      <img src="https://img.shields.io/badge/React-Tailwind-blue?style=flat-square&logo=react" />
-    </td>
-    <td align="center" width="50%" style="border: 1px solid #30363D; padding: 15px; border-radius: 10px;">
-      <h3>🏨 LuxeStay & YatraEase</h3>
-      <p><em>Premium booking platforms featuring highly polished transactional flows, responsive DOM elements, and interactive component libraries.</em></p>
-      <img src="https://img.shields.io/badge/Frontend_Architecture-00FF99?style=flat-square&logo=javascript&logoColor=black" />
-    </td>
-  </tr>
-</table>
+**`[ 01 ]` 💬 GodChat: Social Platform**
+> **Architecture:** Reactive UI, Real-time State Management, Modular Components
+> **Telemetry:** A seamless social chatting platform engineered for fluid data presentation. Features dynamic DOM updates, scroll-locking for active feeds, and an immersive user interface designed for high user retention.
+> <a href="https://koustav2303.github.io/godchat/"><img src="https://img.shields.io/badge/EXECUTE_LIVE_SYSTEM-00FF99?style=flat-square&logo=googlechrome&logoColor=black" alt="Live" /></a>
+
+**`[ 02 ]` 💎 Lumina Storefront**
+> **Architecture:** React, Tailwind v3, GSAP, Three.js
+> **Telemetry:** Luxury editorial digital storefront for furniture. Rejects standard retail templates in favor of a high-fidelity visual experience, utilizing scroll-driven narratives and physics-based interactions to display premium assets.
+
+**`[ 03 ]` 🎛️ Pulse Audio Engine**
+> **Architecture:** React, Three.js, Web Audio API, Jamendo API
+> **Telemetry:** Real-time 3D cinematic audio visualization. Synchronizing raw FFT data analysis with WebGL physics layers to map audio frequencies to visual motion dynamically.
+
+**`[ 04 ]` 🏦 NetBank Pro**
+> **Architecture:** React, Tailwind v3, GSAP Timelines
+> **Telemetry:** Production-grade digital banking dashboard. Integrates secure architectural logic with a premium glassmorphism UI, featuring highly-timed GSAP animations for transactional feedback.
+
+**`[ 05 ]` 🏨 LuxeStay: Booking System**
+> **Architecture:** Responsive Frontend Matrices, Component-Driven Design
+> **Telemetry:** Premium accommodation interface focusing on complex booking flows. Built to handle state preservation across multiple selection screens while maintaining a polished, high-contrast aesthetic.
+> <a href="https://koustav2303.github.io/LuxeStay-hotel-booking-webpage/"><img src="https://img.shields.io/badge/EXECUTE_LIVE_SYSTEM-00FF99?style=flat-square&logo=googlechrome&logoColor=black" alt="Live" /></a>
+
+**`[ 06 ]` ⚕️ CareSync: Health Portal**
+> **Architecture:** Accessible DOM Structure, Secure UI Flows
+> **Telemetry:** A healthcare concern intake webpage. Prioritizes accessibility, clean data presentation, and secure-feeling form handling to streamline user interaction in critical contexts.
+> <a href="https://koustav2303.github.io/caresync/"><img src="https://img.shields.io/badge/EXECUTE_LIVE_SYSTEM-00FF99?style=flat-square&logo=googlechrome&logoColor=black" alt="Live" /></a>
+
+**`[ 07 ]` ✈️ YatraEase: Travel Engine**
+> **Architecture:** Asset Optimization, Dynamic Routing Simulation
+> **Telemetry:** Seamless travel and booking portal. Engineered for visual-heavy asset loading, providing users with frictionless search flows and highly responsive destination filtering.
+> <a href="https://koustav2303.github.io/yatraease/"><img src="https://img.shields.io/badge/EXECUTE_LIVE_SYSTEM-00FF99?style=flat-square&logo=googlechrome&logoColor=black" alt="Live" /></a>
+
+**`[ 08 ]` ☕ CafeAura: Boutique Experience**
+> **Architecture:** CSS Grid Mastery, Micro-interaction Design
+> **Telemetry:** An immersive boutique cafe showcase. Leverages advanced visual hierarchy, custom typographic scaling, and fluid hover states to translate a physical brand experience into the DOM.
+> <a href="https://koustav2303.github.io/cafe-webpage/"><img src="https://img.shields.io/badge/EXECUTE_LIVE_SYSTEM-00FF99?style=flat-square&logo=googlechrome&logoColor=black" alt="Live" /></a>
 
 <div align="center">
   <br>
@@ -105,7 +111,7 @@ I bridge the gap between secure, data-intensive backend architectures and breath
 
 ---
 
-### 📈 Telemetry & Development Metrics
+### 📈 `sys.metrics` // Telemetry & Activity
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -117,7 +123,7 @@ I bridge the gap between secure, data-intensive backend architectures and breath
 
 <div align="center">
   <!-- DYNAMIC ACTIVITY GRAPH -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Koustav2303&bg_color=0D1117&color=00FF99&line=00FF99&point=FFFFFF&area=true&hide_border=true&title=Recent+Commit+Activity" alt="Activity Graph" width="100%" style="border-radius: 10px;"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Koustav2303&bg_color=0D1117&color=00FF99&line=00FF99&point=FFFFFF&area=true&hide_border=true&title=Recent+Commit+Telemetry" alt="Activity Graph" width="100%" style="border-radius: 10px;"/>
 </div>
 
 <br>
@@ -135,7 +141,7 @@ I bridge the gap between secure, data-intensive backend architectures and breath
 
 ---
 
-### 🐍 Contribution Matrix
+### 🐍 `log.commits` // The Matrix Grid
 
 <div align="center">
   <picture>
@@ -147,10 +153,10 @@ I bridge the gap between secure, data-intensive backend architectures and breath
 
 ---
 
-### 🌌 Establish Connection
+### 🌌 `net.connect` // Establish Connection
 
 <div align="center">
-  <p>Always open to discussing advanced fullstack architecture, WebGL rendering, or enterprise-scale Java application design.</p>
+  <p>Ping me to discuss advanced fullstack architecture, WebGL rendering pipelines, or enterprise-scale Java application design.</p>
   <a href="https://www.linkedin.com/in/koustav-pan-7576a3237/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
