@@ -3,13 +3,14 @@
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated UI Header" width="100%" style="border-radius: 15px; margin-bottom: 20px;">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated UI Header" width="100%" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0px 4px 15px rgba(0, 255, 153, 0.2);">
 </div>
 
 <div align="center">
   <a href="https://koustav2303.github.io/koustavpan-portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/🌌_ENTER_THE_LIVE_PORTFOLIO-000000?style=for-the-badge&logo=googlechrome&logoColor=00FF99" alt="Live Portfolio"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=Koustav2303&label=BASE_VIEWS&color=00FF99&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <br>
@@ -38,38 +39,21 @@ I bridge the gap between secure, robust backend systems and breathtaking, high-f
 
 ### ⚡ The Arsenal: Tech Stack Matrix
 
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <h3>🌐 Frontend & UI</h3>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><br>
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /><br>
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/HTML5_%2B_CSS3-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    </td>
-    <td align="center" width="25%">
-      <h3>⚙️ Backend & Logic</h3>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-    </td>
-    <td align="center" width="25%">
-      <h3>🎨 Motion & Creative</h3>
-      <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Web_Audio_API-000000?style=for-the-badge&logo=webaudio&logoColor=00FF99" />
-    </td>
-    <td align="center" width="25%">
-      <h3>🖥️ The Workbench</h3>
-      <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <p><em>Core Technologies & Architecture</em></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,react,tailwind,bootstrap,html,css,nodejs,express,java,cpp,mysql,git,github,vscode,eclipse&perline=8" alt="Skill Icons" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <p><em>Motion & Creative Engineering</em></p>
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
+  <img src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web_Audio_API-000000?style=for-the-badge&logo=webaudio&logoColor=00FF99" />
+</div>
 
 ---
 
@@ -127,14 +111,28 @@ I bridge the gap between secure, robust backend systems and breathtaking, high-f
 
 > When I'm not pushing pixels, architecting backend logic, or grinding algorithms, I operate under the artist alias **Scorpex**. I produce high-energy beats and write aggressive, hardcore rap. My creative process across both code and music is heavily fueled by high-contrast, street-style, and retro-vintage cinematic aesthetics.
 
+<div align="center">
+  <!-- Note: Replace 'YOUR_SPOTIFY_UID' with your actual Spotify User ID for this to show what you're currently listening to! -->
+  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_UID">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=novatimo&bar_color=00FF99&bar_color_cover=false" alt="Spotify Live Status" />
+  </a>
+</div>
+
 ---
 
-### 🏆 Analytics & Activity
+### 🏆 Analytics & Dynamic Telemetry
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Koustav2303&theme=radical&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Trophies" width="80%" />
   </a>
+</div>
+
+<br>
+
+<div align="center">
+  <!-- DYNAMIC ACTIVITY GRAPH -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Koustav2303&bg_color=0D1117&color=00FF99&line=00FF99&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="100%" style="border-radius: 10px;"/>
 </div>
 
 <br>
@@ -177,10 +175,4 @@ I bridge the gap between secure, robust backend systems and breathtaking, high-f
   <a href="https://github.com/Koustav2303">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Koustav2303&label=Profile%20Views&color=00FF99&style=for-the-badge" alt="Profile Views" />
 </div>
