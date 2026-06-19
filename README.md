@@ -38,34 +38,6 @@ I bridge the gap between secure, data-intensive backend architectures and breath
 
 ---
 
-### 🖥️ `sys.processes` // Active Mission Status
-
-<div align="center">
-  <table style="background-color: #0D1117; border: 1px solid #30363D; border-radius: 10px; width: 100%; max-width: 800px; box-shadow: 0px 0px 15px rgba(0, 255, 153, 0.05);">
-    <tr>
-      <td style="padding: 10px 15px; border-bottom: 1px solid #30363D; background-color: #161B22;">
-        <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/console.svg" width="16" style="vertical-align: middle;">
-        <span style="color: #8b949e; font-family: monospace; font-size: 13px; margin-left: 8px;">root@koustav_terminal ~ bash</span>
-      </td>
-    </tr>
-    <tr>
-      <td style="padding: 20px; font-family: 'Courier New', Courier, monospace; font-size: 14px; text-align: left; line-height: 1.6;">
-        <span style="color: #00FF99;">root@koustav:~$</span> ./check_status.sh<br>
-        <span style="color: #58A6FF;">[SYSTEM]</span> Location pinpointed: Bengaluru, India 📍<br>
-        <span style="color: #58A6FF;">[PROCESSING]</span> Upgrading enterprise logic: Java Fullstack Architecture @ JSpider...<br>
-        <span style="color: #58A6FF;">[RENDERING]</span> Compiling physics interactions for "Lumina" luxury storefront...<br>
-        <br>
-        <span style="color: #00FF99;">root@koustav:~$</span> whoami --audio<br>
-        <span style="color: #FF7B72;">[SCORPEX]</span> Identity verified. Writing hardcore rap lyrics & rendering high-energy beats. 🎧<br>
-        <br>
-        <span style="color: #00FF99;">root@koustav:~$</span> <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=14&pause=1000&color=FFFFFF&vCenter=true&width=400&lines=Awaiting+new+commands...;Standing+by..._" alt="Typing" style="vertical-align: middle;"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 ### ⚡ `env.stack` // Tech Arsenal & Tooling
 
 <div align="center">
@@ -184,20 +156,7 @@ I bridge the gap between secure, data-intensive backend architectures and breath
 
 ---
 
-### 📡 `sys.radar` // Pinned Architecture & Skills
-
-<div align="center">
-  <a href="https://github.com/rahuldkjain/github-profile-readme-generator">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Koustav2303&repo=koustavpan-portfolio&theme=radical&bg_color=0D1117&border_color=00FF99&title_color=00FF99&icon_color=FFFFFF" alt="Pinned Repo Card" />
-  </a>
-  <br><br>
-  <!-- NOTE: Add your radar image URL below once generated, or remove this line if skipping the radar graph -->
-  <img src="https://raw.githubusercontent.com/Koustav2303/Koustav2303/main/placeholder-for-radar.png" alt="Skill Radar Generator Placeholder" />
-</div>
-
----
-
-### 📈 `sys.metrics` & `sys.telemetry` // Live Processing Stats
+### 📈 `sys.metrics` // Telemetry & Activity
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -216,13 +175,6 @@ I bridge the gap between secure, data-intensive backend architectures and breath
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=Koustav2303&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&ring_color=00FF99&title_color=00FF99" alt="Stats" width="48%" />
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Koustav2303&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF99" alt="Top Languages" width="48%" />
-</div>
-
-<br>
-
-<div align="center">
-  <!-- Replace YOUR_WAKATIME_USERNAME below once you set up WakaTime -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=radical&bg_color=0D1117&title_color=00FF99&hide_border=true&layout=compact" alt="WakaTime Stats" />
 </div>
 
 ---
