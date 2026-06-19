@@ -66,7 +66,6 @@ I bridge the gap between secure, data-intensive backend architectures and breath
 ### 🚀 `dir.projects` // Deployed Systems & Architectures
 
 <table style="border-collapse: separate; border-spacing: 15px; border: none; width: 100%;">
-  <!-- ROW 1 -->
   <tr style="border: none;">
     <td align="center" width="50%" style="border: 1px solid #30363D; padding: 20px; border-radius: 12px; background-color: #0D1117;">
       <h3>💬 GodChat</h3>
@@ -87,7 +86,6 @@ I bridge the gap between secure, data-intensive backend architectures and breath
     </td>
   </tr>
   
-  <!-- ROW 2 -->
   <tr style="border: none;">
     <td align="center" width="50%" style="border: 1px solid #30363D; padding: 20px; border-radius: 12px; background-color: #0D1117;">
       <h3>🎛️ Pulse Audio Engine</h3>
@@ -105,7 +103,6 @@ I bridge the gap between secure, data-intensive backend architectures and breath
     </td>
   </tr>
 
-  <!-- ROW 3 -->
   <tr style="border: none;">
     <td align="center" width="50%" style="border: 1px solid #30363D; padding: 20px; border-radius: 12px; background-color: #0D1117;">
       <h3>🏨 LuxeStay</h3>
@@ -128,7 +125,6 @@ I bridge the gap between secure, data-intensive backend architectures and breath
     </td>
   </tr>
 
-  <!-- ROW 4 -->
   <tr style="border: none;">
     <td align="center" width="50%" style="border: 1px solid #30363D; padding: 20px; border-radius: 12px; background-color: #0D1117;">
       <h3>✈️ YatraEase</h3>
@@ -171,7 +167,6 @@ I bridge the gap between secure, data-intensive backend architectures and breath
 <br>
 
 <div align="center">
-  <!-- DYNAMIC ACTIVITY GRAPH -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Koustav2303&bg_color=0D1117&color=00FF99&line=00FF99&point=FFFFFF&area=true&hide_border=true&title=Recent+Commit+Telemetry" alt="Activity Graph" width="100%" style="border-radius: 10px;"/>
 </div>
 
@@ -179,13 +174,7 @@ I bridge the gap between secure, data-intensive backend architectures and breath
 
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=Koustav2303&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&ring_color=00FF99&title_color=00FF99" alt="Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Koustav2303&theme=radical&hide_border=true&background=0D1117&ring=00FF99&fire=00FF99&currStreakNum=white" alt="Streak" width="48%" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Koustav2303&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF99" alt="Top Languages" width="50%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Koustav2303&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF99" alt="Top Languages" width="48%" />
 </div>
 
 ---
